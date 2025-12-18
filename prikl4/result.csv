@@ -1,0 +1,21 @@
+Absolute Path,Relative Path,Filename,dominant_color,brightness_value,brightness_range,color_category
+C:\Users\Yaroslav\Desktop\lab2\images\000005.jpg,images\000005.jpg,000005.jpg,"[102, 52, 51]",66.83599999999998,50-99,Red Dominant
+C:\Users\Yaroslav\Desktop\lab2\images\000016.jpg,images\000016.jpg,000016.jpg,"[99, 61, 38]",69.73999999999998,50-99,Red Dominant
+C:\Users\Yaroslav\Desktop\lab2\images\000011.jpg,images\000011.jpg,000011.jpg,"[80, 83, 71]",80.73499999999999,50-99,Gray
+C:\Users\Yaroslav\Desktop\lab2\images\000006.jpg,images\000006.jpg,000006.jpg,"[116, 107, 105]",109.463,100-149,Gray
+C:\Users\Yaroslav\Desktop\lab2\images\000009.jpg,images\000009.jpg,000009.jpg,"[118, 119, 87]",115.053,100-149,Mixed Colors
+C:\Users\Yaroslav\Desktop\lab2\images\000020.jpg,images\000020.jpg,000020.jpg,"[131, 115, 98]",117.84599999999999,100-149,Gray
+C:\Users\Yaroslav\Desktop\lab2\images\000015.jpg,images\000015.jpg,000015.jpg,"[100, 140, 51]",117.89399999999998,100-149,Green Dominant
+C:\Users\Yaroslav\Desktop\lab2\images\000012.jpg,images\000012.jpg,000012.jpg,"[137, 117, 102]",121.27,100-149,Gray
+C:\Users\Yaroslav\Desktop\lab2\images\000004.jpg,images\000004.jpg,000004.jpg,"[125, 134, 112]",128.801,100-149,Gray
+C:\Users\Yaroslav\Desktop\lab2\images\000019.jpg,images\000019.jpg,000019.jpg,"[140, 127, 121]",130.203,100-149,Gray
+C:\Users\Yaroslav\Desktop\lab2\images\000018.jpg,images\000018.jpg,000018.jpg,"[143, 132, 113]",133.123,100-149,Gray
+C:\Users\Yaroslav\Desktop\lab2\images\000003.jpg,images\000003.jpg,000003.jpg,"[155, 135, 80]",134.70999999999998,100-149,Mixed Colors
+C:\Users\Yaroslav\Desktop\lab2\images\000013.jpg,images\000013.jpg,000013.jpg,"[155, 134, 112]",137.77100000000002,100-149,Red Dominant
+C:\Users\Yaroslav\Desktop\lab2\images\000002.jpg,images\000002.jpg,000002.jpg,"[150, 141, 135]",143.007,100-149,Gray
+C:\Users\Yaroslav\Desktop\lab2\images\000007.jpg,images\000007.jpg,000007.jpg,"[165, 141, 115]",145.21200000000002,100-149,Red Dominant
+C:\Users\Yaroslav\Desktop\lab2\images\000008.jpg,images\000008.jpg,000008.jpg,"[166, 141, 115]",145.51100000000002,100-149,Red Dominant
+C:\Users\Yaroslav\Desktop\lab2\images\000017.jpg,images\000017.jpg,000017.jpg,"[205, 161, 81]",165.036,150-199,Red Dominant
+C:\Users\Yaroslav\Desktop\lab2\images\000014.jpg,images\000014.jpg,000014.jpg,"[171, 169, 159]",168.458,150-199,Gray
+C:\Users\Yaroslav\Desktop\lab2\images\000001.jpg,images\000001.jpg,000001.jpg,"[177, 169, 159]",170.25199999999998,150-199,Gray
+C:\Users\Yaroslav\Desktop\lab2\images\000010.jpg,images\000010.jpg,000010.jpg,"[221, 205, 199]",209.1,200-249,White/Gray
